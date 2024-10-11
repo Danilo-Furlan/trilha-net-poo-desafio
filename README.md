@@ -1,6 +1,12 @@
 # DIO - Trilha .NET - Programação orientada a objetos
 www.dio.me
 
+## Como Executar o Programa
+
+1. Certifique-se de que o .NET 6.0 está instalado em sua máquina.
+2. Copie o diretório e abra-o em uma IDE.
+3. Abra o terminal e use o comando `dotnet run`.
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de orientação a objetos, da trilha .NET da DIO.
 
